@@ -100,7 +100,7 @@
       "brightness": -0.11780890196982163,
       "contrast": 1,
       "volume": {
-        "url": "./data.jpg",
+        "url": "data.jpg",
         "res": [
           256,
           256,
