@@ -60,7 +60,7 @@
   "views": [
     {
       "axes": false,
-      "border": true,
+      "border": false,
       "translate": [
         -0.05715767664977255,
         -0.031176914536239782,
@@ -114,7 +114,7 @@
       },
       "slices": {
         "properties": {
-          "show": false,
+          "show": true,
           "X": 93,
           "Y": 111,
           "Z": 144,
