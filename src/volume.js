@@ -1,14 +1,4 @@
-/*
- * ShareVol
- * Lightweight WebGL volume viewer/slicer
- *
- * Copyright (c) 2014, Monash University. All rights reserved.
- * Author: Owen Kaluza - owen.kaluza ( at ) monash.edu
- *
- * Licensed under the GNU Lesser General Public License
- * https://www.gnu.org/licenses/lgpl.html
- *
- */
+
 //BUGS:
 //Canvas Y slightly too large, scroll bar appearing
 //
