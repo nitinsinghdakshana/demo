@@ -1,6 +1,6 @@
 {
   "properties": {
-    "nogui": true,
+    "nogui": false,
     "background": "rgba(81,77,74,1.00)"
   },
   "colourmaps": [
