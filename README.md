@@ -1,3 +1,3 @@
 # demo
 webgl
-link   https://anurags08.github.io/demo/
+link    https://nitinsinghdakshana.github.io/demo/
